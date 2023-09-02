@@ -31,3 +31,4 @@ C:\Users\USUARIO\Documents\GitHub\pruebadental2023\backend\obj\Debug\net7.0\refi
 C:\Users\USUARIO\Documents\GitHub\pruebadental2023\backend\obj\Debug\net7.0\backend.pdb
 C:\Users\USUARIO\Documents\GitHub\pruebadental2023\backend\obj\Debug\net7.0\backend.genruntimeconfig.cache
 C:\Users\USUARIO\Documents\GitHub\pruebadental2023\backend\obj\Debug\net7.0\ref\backend.dll
+C:\Users\USUARIO\Documents\GitHub\pruebadental2023\backend\bin\Debug\net7.0\Dapper.dll
